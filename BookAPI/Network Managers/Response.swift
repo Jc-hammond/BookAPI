@@ -7,10 +7,3 @@
 
 import Foundation
 
-struct Response: Codable, Identifiable {
-    
-    var id: ObjectIdentifier
-    var name: String
-    
-    
-}
